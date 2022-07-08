@@ -1,3 +1,5 @@
+<img alt="Nix logo wiht smiling face, cat like ears and a tail" src="./NixOwO_plain.svg" style="width: 400px;">
+
 # NixOwO
 Cuter Nix logo (SVG)
 
